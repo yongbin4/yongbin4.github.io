@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "BUILD COOL SH*T"
 title_separator          : "-"
-subtitle                 : "👋Welcome👋\Taking notes on what I've learned! Document on Cool projects!"
+subtitle                 : 
 name                     : "Andrew Yongbin Kim"
 description              : "👋Welcome👋 Taking notes on what I've learned! Document on Cool projects!"
 url                      : "https://yongbin4.github.io"
@@ -107,6 +107,8 @@ author:
   name             : "Andrew Yongbin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🇰🇷 Korea -> 🇦🇪 U.A.E -> 🇨🇦 Canada"
+                     "👋Welcome👋" 
+                     "Taking notes on what I've learned! Document on Cool projects!"
   location         : "Edmonton"
   email            : "kyongbin4@gmail.com"
   links:
