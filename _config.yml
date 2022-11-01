@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Build cool sxxx"
+title                    : "Build cool sh*t"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "👋Welcome👋 Taking notes on what I've learned! Document on Cool projects!"
 name                     : "Andrew Yongbin Kim"
 description              : "👋Welcome👋 Taking notes on what I've learned! Document on Cool projects!"
 url                      : "https://yongbin4.github.io"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Andrew Yongbin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🇰🇷 South Korea -> 🇦🇪 U.A.E -> 🇨🇦 Canada"
+  bio              : "🇰🇷 Korea -> 🇦🇪 U.A.E -> 🇨🇦 Canada"
   location         : "Edmonton"
   email            : "kyongbin4@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kyongbin4@gmail.com"
+      #url: "kyongbin4@gmail.com"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/yongbin-kim-56ab30222/"
