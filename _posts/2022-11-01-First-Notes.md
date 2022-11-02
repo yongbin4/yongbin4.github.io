@@ -7,4 +7,5 @@ author_profile: false
 ---
 **Welcome🙌**, this is my first jekyll blog post.
 
-My first note
+Yongbin's First Blog entry
+
