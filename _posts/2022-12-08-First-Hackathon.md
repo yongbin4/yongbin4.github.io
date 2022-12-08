@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Yongbin's First Post!"
+title:  "First_Hackathon_Project!"
 categories: coding, hackthon, project
 toc: true
 author_profile: false
