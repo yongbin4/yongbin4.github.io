@@ -11,7 +11,7 @@ I joined on a hacked beta which held by computer engineering club in University 
 
 
 <figure>
-  <img data-action="zoom" src='{{ "/assets/img/IMG_6149.jpg" | relative_url }}' alt='absolute'>
+  <img data-action="zoom" src='{{ "/assets/img/IMG_6194.jpg" | relative_url }}' alt='absolute'>
   <figcaption>여기에 캡션을 작성합니다.</figcaption>
 </figure>
 
