@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Yongbin Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🇰🇷 Korea -> 🇦🇪 U.A.E -> 🇨🇦 Canada"
+  avatar           : "/assets/images/IMG_0773.jpeg"
+  bio              : "🇰🇷 Korea => 🇦🇪 U.A.E => 🇨🇦 Canada"
   location         : "Canada"
   email            : "kyongbin4@gmail.com"
   links:
