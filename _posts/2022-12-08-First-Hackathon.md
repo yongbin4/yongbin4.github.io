@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "First_Hackathon_Project!"
-categories: coding, hackthon, project
+categories: coding hackthon project
 toc: true
 author_profile: false
 ---
