@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "First_Hackathon_Project!"
 categories: coding hackthon project
 toc: true
