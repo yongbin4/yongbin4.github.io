@@ -3,7 +3,7 @@ layout: single
 title:  "First_Hackathon_Project!"
 categories: coding hackthon project
 toc: true
-author_profile: true
+author_profile: false
 ---
 # First_Hackathon_Project
 
@@ -12,4 +12,5 @@ I joined on a hacked beta which held by computer engineering club in University 
 | ![hackathon](https://github.com/yongbin4/yongbin4.github.io/blob/1d1a3de89481a7a03d95ce6804d66d5c0eef5cb7/assets/images/IMG_6194.JPG) | 
 |:--:| 
 | 2022-11-05 ~ 2022-11-06|
-![hack](assets/images/assets/images/IMG_6194.JPG)
+![hack](assets/images/IMG_6194.JPG)
+
