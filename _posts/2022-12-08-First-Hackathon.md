@@ -3,7 +3,7 @@ layout: post
 title:  "First_Hackathon_Project!"
 categories: coding hackthon project
 toc: true
-author_profile: false
+author_profile: true
 ---
 # First_Hackathon_Project
 
