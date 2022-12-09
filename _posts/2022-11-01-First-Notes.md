@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Yongbin's First Post!"
+title:  "First Post! This is about me😁"
 categories: coding
 toc: true
 author_profile: false
