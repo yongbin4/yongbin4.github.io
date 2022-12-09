@@ -4,6 +4,7 @@ title:  "First Post! This is about me😁"
 categories: coding
 toc: true
 author_profile: false
+comments: true
 ---
 **Welcome🙌**, this is my first jekyll blog post.
 
