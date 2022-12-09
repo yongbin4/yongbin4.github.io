@@ -9,9 +9,10 @@ author_profile: false
 
 I joined on a hacked beta which held by computer engineering club in University of Alberta. I get to meet great teammates, Johmin, Taekwan, Dohyun, Jungeun. This is my first experience with the hackathon. I had no idea how it goes and we didn't prepare much. But we divided our roles before we participate. I was a front-end developer. I reviewed HTML, CSS before the hackathon. I learned about bootstrap night before the hackathon. It is a great framework to build an web application. 
 
+![hackathon](/assets/img/IMG_6194.jpg)
 
-<figure>
+<!-- <figure>
   <img data-action="zoom" src='{{ "/assets/img/IMG_6194.jpg" | relative_url }}' alt='absolute'>
   <figcaption>여기에 캡션을 작성합니다.</figcaption>
-</figure>
+</figure> -->
 
