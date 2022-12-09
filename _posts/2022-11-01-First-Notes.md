@@ -3,7 +3,7 @@ layout: single
 title:  "First Post! This is about me😁"
 categories: coding
 toc: true
-author_profile: false
+author_profile: true
 comments: true
 ---
 **Welcome🙌**, this is my first jekyll blog post.
