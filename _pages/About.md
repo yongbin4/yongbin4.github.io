@@ -1,3 +1,11 @@
+---
+layout: single
+title:  "About Me"
+categories: coding
+toc: true
+author_profile: true
+comments: true
+---
 Hello 👋,
 
 Open to an internship opportunity in Summer 2023
