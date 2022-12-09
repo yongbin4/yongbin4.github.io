@@ -14,7 +14,7 @@ But we divided our roles before we participate. I was a front-end developer.
 I reviewed HTML, CSS before the hackathon. I learned about bootstrap night before the hackathon. 
 It is a great framework to build an web application. 
 
-|<img src="/assets/img/IMG_6194.JPG" width="300" height="200">|
+|<center><img src="/assets/img/IMG_6194.JPG" width="300" height="200"></center>|
 |--|
 |This was amazing experience for me! building something meaningful project overnight!|
 
