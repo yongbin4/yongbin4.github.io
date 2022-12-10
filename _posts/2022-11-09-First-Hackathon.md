@@ -3,7 +3,7 @@ layout: single
 title:  "First_Hackathon_Project!"
 categories: coding hackthon project albertaCollisionReport
 toc: true
-author_profile: true
+author_profile: false
 ---
 ## First_Hackathon_Project
 
