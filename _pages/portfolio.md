@@ -16,7 +16,7 @@ sidebar:
     text: "Full-Stack Developer, Co-founder of Whaler Technologies Inc."
 gallery:
   - url: /assets/images/alberta_collision_report.png
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: assets/images/alberta_collision_report.png
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
