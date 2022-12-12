@@ -4,6 +4,7 @@ title:  "About Me"
 categories: coding
 toc: true
 author_profile: true
+permalink: /about/
 comments: true
 ---
 Hello 👋,
