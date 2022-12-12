@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/header.jpeg
 sidebar:
   - title: "Role"
-    image: assets/images/Whaler Logo_Final.png
-    image_alt: "logo"
+<!--     image: assets/images/Whaler Logo_Final.png
+    image_alt: "logo" -->
     text: "Full-Stack Developer, Co-founder of Whaler Technologies Inc."
 gallery:
   - url: /assets/images/alberta_collision_report.png
