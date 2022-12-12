@@ -1,5 +1,5 @@
 ---
-title: About Me 
+title: About My Journey of Coding
 layout: collection
 permalink: /portfolio/
 collection: portfolio
