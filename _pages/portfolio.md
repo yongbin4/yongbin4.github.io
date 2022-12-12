@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: About Me 
 layout: collection
 permalink: /portfolio/
 collection: portfolio
@@ -11,9 +11,9 @@ header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: assets/images/Whaler Logo_Final.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Full-Stack Developer, Co-founder of Whaler Technologies Inc."
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
