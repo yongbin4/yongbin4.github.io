@@ -6,7 +6,7 @@ toc: true
 author_profile: false
 ---
 
-## Python foundations</br>
+## Python foundations<br/>
 **Here are few things I scribbled down when I revised python after long service in Korean Army.**
 
 ### Object-Oriented Programming
