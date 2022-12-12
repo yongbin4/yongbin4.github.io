@@ -14,8 +14,6 @@ sidebar:
     image: assets/images/Whaler Logo_Final.png
     image_alt: "logo"
     text: "Full-Stack Developer, Co-founder of Whaler Technologies Inc."
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
