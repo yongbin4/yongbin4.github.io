@@ -29,8 +29,10 @@ Hello 👋,
 
 Open to an internship opportunity in Summer 2023
 
-My name is Yongbin. I am open to working in an environment where I have to acquire my task by questioning and learning. Currently working on three projects and courses. Co-founded whaler tech with a group of friends, we got our first angel and I am working on an operation and full-stack development. Preparing for a World Challenge Challenge competition. Lastly, building an app to find a missing dog using image processing. I am prepared to work in a challenging environment. I value communication and feedback.
-
+My name is Yongbin Kim. I am open to working in an environment where I have to acheive my task by asking questions and challenging. I am fully commited and reponsible for my jobs and roles in project I am in. Here are the projects I am working on. Firstly, **Whaler Technologies Inc.** is a startup I started with talented friends from all over the globe. We are trying to create better user experience and owner management for business owners with web3 technology.
+We got our first angel invest. We plan to have our first MVP by 2023 May. I am currently working as head of operation and software engineer. I desiged our HR foundation with our HR team. I am working on a workflow with project manager. I am visualizing our vision with lean canvas and pitch our idea to StartUp accelerators. 
+Secondly, I am working as a part-time research assistant at University of Alberta Faculty of Rehabilitation Medicine lab. I am working on different projects with researchers. Furthermore, we had great idea of find the missing dog using image processing. We are building an app with the team called Kreaters. Finally, I am preparing a project to compete in a competition called World Challenge Challenge.
+We have to come up with a solution that can solve global issue. 
 {% include gallery caption="This is some of my projects I have worked on." %}
 
 
