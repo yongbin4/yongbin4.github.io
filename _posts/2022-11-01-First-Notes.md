@@ -6,10 +6,10 @@ toc: true
 author_profile: false
 comments: true
 ---
-**Welcome🙌**,</br>
-this is my first jekyll blog post.</br>
+**Welcome🙌**,<br/>
+this is my first jekyll blog post.<br/>
 
-Hello ✌️,</br>
+Hello ✌️,<br/>
 This is my life journey. From South Korea to U.A.E and U.A.E to Canada. 
 ## South Korea
 I grew up in a small city in South Korea. I didn't expect to go abroad and study. During my school years in South Korea I had great experience with my friends and families. 
