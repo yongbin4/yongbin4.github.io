@@ -18,8 +18,8 @@ gallery:
   - url: /assets/images/alberta_collision_report.png
     image_path: assets/images/alberta_collision_report.png
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/kapple.png
+    image_path: assets/images/kapple.png
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
