@@ -48,7 +48,7 @@ This document will explain what namespaces and Scopes in Python. Python namespac
 
 The built-in namespace contains the names of all of python’s built-in objects. 
 
-![Text, letter Description automatically generated](quiver-image-url/223865DC93228A891B2AF113A5FA809D.png)
+![Text, letter Description automatically generated](/assets/images/namespace1.png)
 
 # Global namespace
 
@@ -56,11 +56,11 @@ The global namespace contains any names defined at the level of the main program
 
 # The Local and Enclosing Namespaces
 
-The interpreter creates a new namespace whenever a function executes. That namespace is local to the function and remains in existence until the function terminates. ­­­­­![Graphical user interface, text, application Description automatically generated](quiver-image-url/50363809D30DEA62BA856C97F97CAD76.png)­­­­­
+The interpreter creates a new namespace whenever a function executes. That namespace is local to the function and remains in existence until the function terminates. ­­­­­![Graphical user interface, text, application Description automatically generated](/assets/images/namespace2.png)­­­­­
 
 The Globals() function
 
-![Graphical user interface, text, application Description automatically generated with medium confidence](quiver-image-url/753A8A356D44813A8DB14F43211B91CA.png)
+![Graphical user interface, text, application Description automatically generated with medium confidence](/assets/images/namespace3.png)
 
 ```
 Global functions can be modified
@@ -69,7 +69,7 @@ and changed.
 
 The locals() function
 
-![Graphical user interface, application, Teams Description automatically generated](quiver-image-url/05DA4E8930939B29DA5D04A0D6CC7739.png)
+![Graphical user interface, application, Teams Description automatically generated](/assets/images/namespace4.png)
 
 Local function is just a copy of the local namespace.
 
@@ -79,8 +79,8 @@ Only mutable argument can be modified outside of scope (local, global)
 
 The global declaration
 
-![Graphical user interface, application, Word Description automatically generated](quiver-image-url/14CFA352A8D6B2D7EC7467F2A3AB57E9.png)
+![Graphical user interface, application, Word Description automatically generated](/assets/images/namespace5.png)
 
 Same logic applies to nested functions.
 
-  ![](quiver-image-url/A651653E601C343E1DBB5A7192FC3DC0.jpg)
+  ![](/assets/images/namespace6.png)
